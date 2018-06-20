@@ -3,7 +3,7 @@
 // }
 
 let people = [
-  {name: 'mehdi Ze1'},
+  {name: 'hush Ze310'},
   {name: 'mehdi Ze2'},
   {name: 'mehdi Ze3'}
 ];

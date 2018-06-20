@@ -1,4 +1,5 @@
-require('../style/style.css');
+import '../style/style.scss';
+
 let people = require('./people.js');
 let $ = require('jquery');
 
